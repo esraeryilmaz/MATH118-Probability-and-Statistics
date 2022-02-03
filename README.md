@@ -1,2 +1,1 @@
-# MATH118 Probability and Statistics
- MATH118 Probability and Statistics Course Homeworks
+# MATH118 Probability and Statistics Course Homeworks
